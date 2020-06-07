@@ -7,6 +7,6 @@ def my_each(collection)
     end
     collection
   else
-    "Hey! No more Block bro!"
+    "Psss... No more Block bro!"
   end
 end
